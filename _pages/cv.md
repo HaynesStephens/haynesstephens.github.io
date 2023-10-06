@@ -1,11 +1,14 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: page
+title: resume 
+permalink: /resume/
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+horizontal: false
 ---
+
+
+If the embedded version of my resume does not work, you can download a copy [here](../assets/pdf/example_pdf.pdf).
+
+<!-- {% raw %} -->
+<iframe src="../assets/pdf/example_pdf.pdf#navpanes=0" width="100%" height="800px"></iframe>
+<!-- {% endraw %}) -->

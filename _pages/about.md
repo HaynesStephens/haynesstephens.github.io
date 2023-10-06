@@ -8,17 +8,17 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: 📍 Antwerp, Belgium 🇧🇪
+  address: 📍 Seattle, WA
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Hola!** 😁
+**Hello!** 😁
 
-I am a **Research Engineer** at the Research and Development department at Centrica. I develop and implement **demand-side response** solutions using state-of-the-art machine learning models and operations research, heavily focused on data-driven and scalable control techniques for distributed energy assets, e.g., electric vehicles, batteries.
+I am a **Research Engineer** at the University of Chicago. I develop and implement **demand-side response** solutions using state-of-the-art machine learning models and operations research, heavily focused on data-driven and scalable control techniques for distributed energy assets, e.g., electric vehicles, batteries.
 
 I am also an active core team member at [Climate Change AI (CCAI)](https://climatechange.ai), currently growing 🌱 a **Power Systems Working Group** to create an open-source research-oriented community. Join our Discord server [here](https://discord.gg/7M3MeSKr3g)!
 

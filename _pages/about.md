@@ -26,4 +26,5 @@ I am also a graduate student researcher at [The Center for Robust Decision-makin
 
 ### career interests
 
-I am looking to apply my technical skills to decarbonization-focused efforts that can create a greener society and economy. 🌿\I am also an advocate for engaging more scientists in climate-energy policy, as policy approaches to climate change will inherently require science-based solutions.
+I am looking to apply my technical skills to decarbonization efforts that can create a greener society and economy. 🌿<br>
+I am also an advocate for engaging more scientists in climate-energy policy, as policy approaches to climate change will inherently require science-based solutions.

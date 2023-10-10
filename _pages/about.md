@@ -26,4 +26,4 @@ I am also a graduate student researcher at [The Center for Robust Decision-makin
 
 ### career interests
 
-I am looking to apply my technical skills to decarbonization projects. Lately I've been interested in using artifical intelligence to clean our energy sector through ***grid-enhancing technologies*** and ***virtual power plants*** ⚡️. \nI am also an advocate for engaging more scientists in climate-energy policy, as policy approaches to climate change will inherently require science-based solutions.
+I am looking to apply my technical skills to decarbonization-focused efforts that can create a greener society and economy. 🌿\I am also an advocate for engaging more scientists in climate-energy policy, as policy approaches to climate change will inherently require science-based solutions.

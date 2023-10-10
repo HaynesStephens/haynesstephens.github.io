@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I teach machines how to make a cleaner world :)
+subtitle: Leveraging technology and policy to confront climate change
 
 profile:
   align: left
@@ -16,14 +16,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Hello!** 😁
+**Hello!** 
 
-I am a **Research Engineer** at the University of Chicago. I develop and implement **demand-side response** solutions using state-of-the-art machine learning models and operations research, heavily focused on data-driven and scalable control techniques for distributed energy assets, e.g., electric vehicles, batteries.
+I am a **Researcher** at the University of Chicago in the Department of Geophysical Sciences. I use original machine learning models and data science to understand the impacts of climate change on U.S. agriculture, working with large datasets from observational records and model output.
 
-I am also an active core team member at [Climate Change AI (CCAI)](https://climatechange.ai), currently growing 🌱 a **Power Systems Working Group** to create an open-source research-oriented community. Join our Discord server [here](https://discord.gg/7M3MeSKr3g)!
+I am also a graduate student researcher at [The Center for Robust Decision-making on Climate and Energy Policy](http://www.rdcep.org/), currently working to unveil the history of U.S. energy infrastructure and lessons for the future. 
 
 <!-- Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
 ### research interests
 
-My research passion lies at the intersection between power systems modelling and machine learning applications – lately I've been super interested in ***reinforcement learning***, ***graph neural networks***, and ***causality*** applications for the power grid.
+I am looking to apply my technical research skills toward decarbonization projects, with a growing research passion toward optimizing the energy sector – lately I've been interested in ***grid-enhancing technologies*** and ***virtual power plants*** using artificial intelligence.

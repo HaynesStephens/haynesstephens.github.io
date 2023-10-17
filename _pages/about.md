@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Leveraging technology and policy to confront climate change
+subtitle: Leveraging technology and policy to solve climate problems
 
 profile:
   align: left
